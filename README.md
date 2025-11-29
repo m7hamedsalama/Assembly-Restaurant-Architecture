@@ -48,9 +48,11 @@ To resolve `Undefined Symbol: @DATA` errors common in strict TASM configurations
 
 ## 📸 Screenshots
 
-| Main Menu (Blue GUI) | Menu Selection | Calculation & Billing |
+| Menu Selection | Calculation & Billing |
 |:--------------------:|:--------------:|:---------------------:|
-| *[Place Screenshot Here]* | *[Place Screenshot Here]* | *[Place Screenshot Here]* |
+|*[<img width="802" height="370" alt="Capture" src="https://github.com/user-attachments/assets/abee6b10-d33c-4a57-9214-bc7a04ed8c83" />
+]* | *[<img width="802" height="527" alt="Capture2" src="https://github.com/user-attachments/assets/babac8b1-3835-4734-9e78-ffac95d636f0" />
+]* |
 
 ---
 
