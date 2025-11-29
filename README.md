@@ -62,7 +62,7 @@ You will need **DOSBox** and **TASM** (Turbo Assembler) installed.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/Egyptian-Restaurant-Assembly.git](https://github.com/YourUsername/Egyptian-Restaurant-Assembly.git)
+    git clone [https://github.com/m7hamedsalama/Egyptian-Restaurant-Assembly.git](https://github.com/m7hamedsalama/Egyptian-Restaurant-Assembly.git)
     ```
 2.  Mount your directory in DOSBox:
     ```bash
