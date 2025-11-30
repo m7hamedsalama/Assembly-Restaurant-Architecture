@@ -104,3 +104,5 @@ Here is how the **Modular Calculation Logic** works under the hood:
     ADD CL, 48
     
     ; ... Printing Routine Follows ...
+## 📸 Full project explanation video 🎥
+   [https://drive.google.com/file/d/16ByiRiWPeLbZsy_rHpnDdGO_5B8hYo2q/view?usp=sharing]
