@@ -106,6 +106,8 @@ Here is how the **Modular Calculation Logic** works under the hood:
     ; ... Printing Routine Follows ...
 
 ---
+## 🎥 Project Demo (فيديو توضيحي)
 
-## 📸 Full project explanation video 🎥
-   [https://drive.google.com/file/d/16ByiRiWPeLbZsy_rHpnDdGO_5B8hYo2q/view?usp=sharing]
+> Watch the full architectural explanation and system simulation here:
+
+[![Watch Video](https://img.shields.io/badge/🎥_Watch-Full_Project_Video-red?style=for-the-badge)](https://drive.google.com/file/d/16ByiRiWPeLbZsy_rHpnDdGO_5B8hYo2q/view?usp=sharing)
